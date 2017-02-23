@@ -11,7 +11,7 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyTitle("HelloWorld")>
 <Assembly: AssemblyDescription("My hello world app")>
-<Assembly: AssemblyCompany("Power Website Por")>
+<Assembly: AssemblyCompany("Power Website Pro")>
 <Assembly: AssemblyProduct("HelloWorld")>
 <Assembly: AssemblyCopyright("Copyright © PWSP 2017")>
 <Assembly: AssemblyTrademark("")>
