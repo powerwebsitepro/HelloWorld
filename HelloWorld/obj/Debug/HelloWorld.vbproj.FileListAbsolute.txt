@@ -1,0 +1,16 @@
+C:\Users\Mendy\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Mendy\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Mendy\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Mendy\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Mendy\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\Mendy\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbprojResolveAssemblyReference.cache
+C:\Users\Mendy\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.FrmMain.resources
+C:\Users\Mendy\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\Users\Mendy\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+C:\Users\Mendy\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Mendy\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\Mendy\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Mendy\Source\Repos\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Mendy\Source\Repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Mendy\Source\Repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\Mendy\Source\Repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
